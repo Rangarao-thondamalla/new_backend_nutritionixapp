@@ -1,0 +1,5 @@
+com\example\favorite\service\FavoriteService.class
+com\example\favorite\controller\FavoriteController.class
+com\example\favorite\entities\Favorite.class
+com\example\favorite\FavoriteApplication.class
+com\example\favorite\repository\FavoriteRepository.class

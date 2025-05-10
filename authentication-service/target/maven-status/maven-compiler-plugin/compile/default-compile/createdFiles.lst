@@ -1,0 +1,6 @@
+com\example\auth\Entities\Profile.class
+com\example\auth\dto\AuthRequest.class
+com\example\auth\service\AuthService.class
+com\example\auth\controller\AuthController.class
+com\example\auth\AuthServiceApplication.class
+com\example\auth\repository\ProfileRepository.class

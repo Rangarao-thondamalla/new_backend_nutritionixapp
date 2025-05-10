@@ -1,0 +1,9 @@
+C:\Users\trang\Desktop\FSD\CAPSTONE_PROJECT_UI\new_backend_nutritionixapp\nutritionixapp_backend_new\contact-message-service\src\main\java\com\example\contactMessage\config\RabbitMQConfig.java
+C:\Users\trang\Desktop\FSD\CAPSTONE_PROJECT_UI\new_backend_nutritionixapp\nutritionixapp_backend_new\contact-message-service\src\main\java\com\example\contactMessage\consumer\ContactMessageConsumer.java
+C:\Users\trang\Desktop\FSD\CAPSTONE_PROJECT_UI\new_backend_nutritionixapp\nutritionixapp_backend_new\contact-message-service\src\main\java\com\example\contactMessage\ContactMessageApplication.java
+C:\Users\trang\Desktop\FSD\CAPSTONE_PROJECT_UI\new_backend_nutritionixapp\nutritionixapp_backend_new\contact-message-service\src\main\java\com\example\contactMessage\controller\ContactMessageController.java
+C:\Users\trang\Desktop\FSD\CAPSTONE_PROJECT_UI\new_backend_nutritionixapp\nutritionixapp_backend_new\contact-message-service\src\main\java\com\example\contactMessage\Entities\ContactMessage.java
+C:\Users\trang\Desktop\FSD\CAPSTONE_PROJECT_UI\new_backend_nutritionixapp\nutritionixapp_backend_new\contact-message-service\src\main\java\com\example\contactMessage\rabbitmq\MessageConsumer.java
+C:\Users\trang\Desktop\FSD\CAPSTONE_PROJECT_UI\new_backend_nutritionixapp\nutritionixapp_backend_new\contact-message-service\src\main\java\com\example\contactMessage\rabbitmq\MessageProducer.java
+C:\Users\trang\Desktop\FSD\CAPSTONE_PROJECT_UI\new_backend_nutritionixapp\nutritionixapp_backend_new\contact-message-service\src\main\java\com\example\contactMessage\repository\ContactMessageRepository.java
+C:\Users\trang\Desktop\FSD\CAPSTONE_PROJECT_UI\new_backend_nutritionixapp\nutritionixapp_backend_new\contact-message-service\src\main\java\com\example\contactMessage\service\ContactMessageService.java

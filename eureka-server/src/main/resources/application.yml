@@ -1,0 +1,12 @@
+server:
+  port: 8761
+
+spring:
+  config:
+    import: "optional:configserver:"
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false  # Eureka Server does not register itself
+    fetchRegistry: false       # No need to fetch registry

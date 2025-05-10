@@ -1,0 +1,19 @@
+server:
+  port: 0  # Let each service choose its own port
+
+spring:
+  profiles:
+    active: default
+  datasource:
+    url: jdbc:mysql://localhost:3306/nutritionix_app
+    username: root
+    password: root1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  cloud:
+    config:
+      enabled: true
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+  security:
+    jwt:
+      secret-key: "global-secret-key"

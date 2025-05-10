@@ -1,0 +1,5 @@
+com\example\nutritionix\controller\FoodItemController.class
+com\example\nutritionix\service\FoodItemService.class
+com\example\nutritionix\entities\FoodItem.class
+com\example\nutritionix\NutritionixServiceApplication.class
+com\example\nutritionix\Repository\FoodItemRepository.class

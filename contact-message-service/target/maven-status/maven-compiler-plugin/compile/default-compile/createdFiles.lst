@@ -1,0 +1,9 @@
+com\example\contactMessage\config\RabbitMQConfig.class
+com\example\contactMessage\rabbitmq\MessageConsumer.class
+com\example\contactMessage\repository\ContactMessageRepository.class
+com\example\contactMessage\ContactMessageApplication.class
+com\example\contactMessage\rabbitmq\MessageProducer.class
+com\example\contactMessage\consumer\ContactMessageConsumer.class
+com\example\contactMessage\controller\ContactMessageController.class
+com\example\contactMessage\Entities\ContactMessage.class
+com\example\contactMessage\service\ContactMessageService.class

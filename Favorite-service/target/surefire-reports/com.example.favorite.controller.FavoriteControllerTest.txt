@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.favorite.controller.FavoriteControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.93 s -- in com.example.favorite.controller.FavoriteControllerTest
